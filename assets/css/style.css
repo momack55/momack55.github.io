@@ -15,9 +15,9 @@ body {
     margin-left: 20px;
 }
 .topnav {
-    /* background-color: aqua; */
+    background-color: aqua;
     color: white;
-    background-color: rgba(117, 190, 218, 0.7 );
+    /* background-color: rgba(117, 190, 218, 0.7 ); */
 
 }
 
